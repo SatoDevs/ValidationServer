@@ -1,0 +1,17 @@
+C:\Users\medus\source\repos\ServerCitadel\bin\Debug\net7.0-windows\ServerCitadel.exe
+C:\Users\medus\source\repos\ServerCitadel\bin\Debug\net7.0-windows\ServerCitadel.deps.json
+C:\Users\medus\source\repos\ServerCitadel\bin\Debug\net7.0-windows\ServerCitadel.runtimeconfig.json
+C:\Users\medus\source\repos\ServerCitadel\bin\Debug\net7.0-windows\ServerCitadel.dll
+C:\Users\medus\source\repos\ServerCitadel\bin\Debug\net7.0-windows\ServerCitadel.pdb
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.csproj.AssemblyReference.cache
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.Form1.resources
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.csproj.GenerateResource.cache
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.AssemblyInfoInputs.cache
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.AssemblyInfo.cs
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.csproj.CoreCompileInputs.cache
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.dll
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\refint\ServerCitadel.dll
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.pdb
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ServerCitadel.genruntimeconfig.cache
+C:\Users\medus\source\repos\ServerCitadel\obj\Debug\net7.0-windows\ref\ServerCitadel.dll
